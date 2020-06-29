@@ -1,0 +1,14 @@
+Django~=3.0.6
+djangorestframework~=3.11.0
+django-cors-headers
+asgiref~=3.2.7
+channels
+psycopg2-binary
+django-heroku==0.3.1
+dj-database-url==0.5.0
+gunicorn==19.9.0
+pytz==2018.9
+whitenoise==5.0.1
+dj_static
+
+

@@ -1,0 +1,5 @@
+https://5efa2317d373d6c23be9f3a7--htmlparatexto.netlify.app/admin/index
+
+comando do docker: docker run -p 6379:6379 -d redis:2.8
+
+comando do python: precisa ativar a virtual env e depois rodar o comando 'python manage.py runserver'
